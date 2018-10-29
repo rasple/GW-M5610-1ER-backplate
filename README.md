@@ -5,6 +5,8 @@ This 3D-printable model should enable you to create your own backplate from PLA/
 
 # Print instructions
 
+Printed mine on an Anycubic Kossel Linear Plus but really any printer will do
+
 * Lowest layer height you are comfortable with (I used 0.06)
 * 100% Infill (doesn't really matter)
 * Support
