@@ -16,5 +16,6 @@ This might mess with the waterproofness of your watch. I personally never had pr
  
 # Images
 ![Nickel Allergy](https://raw.githubusercontent.com/rasple/GW-M5610-1ER-backplate/master/images/irritated%20skin.jpg)
+![3D Model](https://raw.githubusercontent.com/rasple/GW-M5610-1ER-backplate/master/images/3d-model.png)
 ![Old backplate](https://raw.githubusercontent.com/rasple/GW-M5610-1ER-backplate/master/images/old%20plate.jpg)
 ![New backplate](https://raw.githubusercontent.com/rasple/GW-M5610-1ER-backplate/master/images/new%20plate.jpg)
